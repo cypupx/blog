@@ -1,4 +1,4 @@
-base_url = "https://cypupx.github.io"
+base_url = "https://cypupx.github.io/blog"
 compile_sass = true
 minify_html = true
 generate_feed = true
@@ -17,5 +17,5 @@ user = ""
 
 [extra.nav]
 links = [
-    { url = "https://github.com/cypupx/blog.git", name = "source" }
+    { url = "https://github.com/cypupx/blog", name = "source" }
 ]
