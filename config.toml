@@ -1,0 +1,21 @@
+base_url = "https://cypupx.github.io"
+compile_sass = true
+minify_html = true
+generate_feed = true
+feed_name = "atom.xml"
+theme = "duckquill"
+title = "mokk's blog"
+
+[extra]
+primary_color = "rgb(198, 160, 246)"
+primary_color_alpha = "rgba(198, 160, 246, 0.2)"
+issues_url = "https://github.com/cypupx/blog/issues"
+
+[extra.comments]
+host = ""
+user = ""
+
+[extra.nav]
+links = [
+    { url = "https://github.com/cypupx/blog.git", name = "source" }
+]
