@@ -6,5 +6,8 @@
 {{ image(url="nyan.gif", alt="nyaa~~", no_hover=true) }}
 
 {% crt() %}
-hewwo everybody
+dijsdjdosod
 {% end %}
+{{image(url="abd3.png", alt="bunny exercising")}}
+ssjdncossm
+ssskkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
